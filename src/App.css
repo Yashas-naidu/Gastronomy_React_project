@@ -36,3 +36,199 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* App.css */
+.baigan1 {
+  /* The image used */
+ background-image: url('https://images.unsplash.com/photo-1505253758473-96b7015fcd40?auto=format&fit=crop&q=80&w=1900&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.baigan2 {
+  /* The image used */
+ background-image: url('https://images.unsplash.com/photo-1627366422957-3efa9c6df0fc?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.baigan3 {
+  /* The image used */
+ background-image: url('https://plus.unsplash.com/premium_photo-1675727579542-ad785e1cee41?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* App.css */
+.red1 {
+  /* The image used */
+ background-image: url('https://cdn-www.terminix.com/-/media/Feature/Terminix/Articles/red-ants-marching-feature.jpg?rev=bff5050213364325bdcb92806b90e6d1');
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.red2 {
+  /* The image used */
+ background-image: url('https://th.bing.com/th/id/R.24984a8f80578866dceb56ad841af9e4?rik=h564VQAe3hOpPg&riu=http%3a%2f%2fanimal.memozee.com%2fArchOLD-3%2f1112973963-m.jpg&ehk=oRYOBe8mhH90DUsJm2%2f81hLpkx2NgbBeqbRTztkwvPY%3d&risl=&pid=ImgRaw&r=0');
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.red3 {
+  /* The image used */
+ background-image: url('https://www.thestatesman.com/wp-content/uploads/2022/07/iStock-1205244765-1024x683.jpg');
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Bisi1 {
+  /* The image used */
+  background-image: url('https://image.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg');
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Bisi2 {
+  /* The image used */
+  background-image: url('https://i.ytimg.com/vi/MujytUX9nl0/maxresdefault.jpg');
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Bisi3 {
+  /* The image used */
+ background-image: url('https://lh3.googleusercontent.com/-0ptPEQNDPsg/SrY2GFcgDMI/AAAAAAAABaU/6m7dRwaqnQ0/s800-Ic42/Bisi%252520Bele%252520Bath.jpg');
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.Ghevar1 {
+  /* The image used */
+  background-image: url('https://www.cookwithmanali.com/wp-content/uploads/2016/08/Ghevar-Recipe-Indian-Sweet.jpg');
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Ghevar2 {
+  /* The image used */
+  background-image: url('https://recipes.net/wp-content/uploads/2020/10/ghevar.jpg');
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Ghevar3 {
+  /* The image used */
+ background-image: url('https://cdn.tasteatlas.com/images/dishes/90427167bb8c4a72bab25584436acb58.jpg');
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.Makke1 {
+  /* The image used */
+  background-image: url('https://th.bing.com/th/id/OIP.glh_08LxkL5m6UCgxdqvtQHaHa?pid=ImgDet&w=600&h=600&rs=1');
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Makke2 {
+  /* The image used */
+  background-image: url('https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/wnu1wnnanku0czaqpbsg');
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Makke3 {
+  /* The image used */
+ background-image: url('https://i.pinimg.com/originals/a0/b4/25/a0b425fc875538028823671c39bbcf30.jpg');
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
