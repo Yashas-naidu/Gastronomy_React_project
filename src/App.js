@@ -40,7 +40,7 @@ function App() {
         <Route path="/home" element={<Home/>} />
         <Route path="/blog" element={<Blog/>} />
         <Route path="/chef" element={<Chef/>} />
-        <Route path="/" element={<Login/>} />
+        <Route path="/Gastronomy_React_project" element={<Login/>} />
         <Route path="/signup" element={<Signup/>} />
         <Route path="/profile" element={<Profile/>} />
         <Route path="/bot" element={<Bot/>} />
