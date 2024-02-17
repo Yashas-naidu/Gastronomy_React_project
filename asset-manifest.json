@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React_project/static/css/main.ebfd29f0.css",
-    "main.js": "/React_project/static/js/main.f451e067.js",
-    "static/js/787.3ac5feed.chunk.js": "/React_project/static/js/787.3ac5feed.chunk.js",
-    "index.html": "/React_project/index.html",
-    "main.ebfd29f0.css.map": "/React_project/static/css/main.ebfd29f0.css.map",
-    "main.f451e067.js.map": "/React_project/static/js/main.f451e067.js.map",
-    "787.3ac5feed.chunk.js.map": "/React_project/static/js/787.3ac5feed.chunk.js.map"
+    "main.css": "/Gastronomy_React_project/static/css/main.ebfd29f0.css",
+    "main.js": "/Gastronomy_React_project/static/js/main.ca65f44a.js",
+    "static/js/787.3ac5feed.chunk.js": "/Gastronomy_React_project/static/js/787.3ac5feed.chunk.js",
+    "index.html": "/Gastronomy_React_project/index.html",
+    "main.ebfd29f0.css.map": "/Gastronomy_React_project/static/css/main.ebfd29f0.css.map",
+    "main.ca65f44a.js.map": "/Gastronomy_React_project/static/js/main.ca65f44a.js.map",
+    "787.3ac5feed.chunk.js.map": "/Gastronomy_React_project/static/js/787.3ac5feed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ebfd29f0.css",
-    "static/js/main.f451e067.js"
+    "static/js/main.ca65f44a.js"
   ]
 }
